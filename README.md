@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gulsahozlu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computer programming 
+- 🌱 I’m currently learning Python coding and data analysis
 
 <!---
 gulsahozlu/gulsahozlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
